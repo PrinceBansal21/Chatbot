@@ -1,0 +1,1 @@
+cloud-lib[aws] @ git+https://github.com/BPS-SmartOps/cloud-lib.git@v1.1
